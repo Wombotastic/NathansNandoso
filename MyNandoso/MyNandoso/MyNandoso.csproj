@@ -82,7 +82,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="index.html" />
     <Content Include="Nandoso.png" />
     <Content Include="Web.config" />
   </ItemGroup>
